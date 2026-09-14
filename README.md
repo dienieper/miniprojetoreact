@@ -2,7 +2,7 @@
 
 Aplicação React para visualizar indicadores mensais em cards de comparação. Cada card apresenta um título, um número principal, o percentual em relação ao mês anterior e uma indicação visual de alta ou baixa.
 
-**Demo:** `https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/`
+**Demo:** [dienieper.github.io/miniprojetoreact](https://dienieper.github.io/miniprojetoreact/)
 
 ## Funcionalidades
 
