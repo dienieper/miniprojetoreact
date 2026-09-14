@@ -1,5 +1,5 @@
-import ComparisonCard from './components/ComparisonCard/ComparisonCard'
-import './App.css'
+import ComparisonCard from "./components/ComparisonCard/ComparisonCard";
+import "./App.css";
 
 function App() {
   return (
@@ -7,7 +7,9 @@ function App() {
       <header className="dashboard-header">
         <p className="eyebrow">Visão geral</p>
         <h1>Indicadores do mês</h1>
-        <p className="subtitle">Acompanhe o desempenho comparado ao período anterior.</p>
+        <p className="subtitle">
+          Acompanhe o desempenho comparado ao período anterior.
+        </p>
       </header>
 
       <section className="cards-grid" aria-label="Indicadores mensais">
@@ -25,7 +27,7 @@ function App() {
         />
       </section>
     </main>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap");
 
 :root {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "DM Sans", sans-serif;
   color: #17212b;
   background: #eef3f1;
   font-synthesis: none;
@@ -16,7 +16,8 @@
 .dashboard {
   min-height: 100vh;
   padding: 72px clamp(24px, 8vw, 128px);
-  background: radial-gradient(circle at 85% 10%, #f8dfbc 0, transparent 28%), #eef3f1;
+  background:
+    radial-gradient(circle at 85% 10%, #f8dfbc 0, transparent 28%), #eef3f1;
 }
 
 .dashboard-header {
@@ -36,7 +37,7 @@
 h1 {
   margin: 0;
   color: #17212b;
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-size: clamp(2.3rem, 5vw, 4.3rem);
   line-height: 0.98;
   letter-spacing: 0;

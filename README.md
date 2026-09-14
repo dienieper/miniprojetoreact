@@ -60,11 +60,11 @@ O componente está em `src/components/ComparisonCard/ComparisonCard.jsx` e receb
 />
 ```
 
-| Prop | Tipo | Descrição |
-| --- | --- | --- |
-| `title` | `string` | Título exibido no topo do card |
-| `value` | `string` | Número ou valor principal |
-| `percentage` | `number` | Percentual de comparação |
+| Prop         | Tipo      | Descrição                                     |
+| ------------ | --------- | --------------------------------------------- |
+| `title`      | `string`  | Título exibido no topo do card                |
+| `value`      | `string`  | Número ou valor principal                     |
+| `percentage` | `number`  | Percentual de comparação                      |
 | `isPositive` | `boolean` | Define se a comparação é positiva ou negativa |
 
 O CSS do componente fica na mesma pasta, em `ComparisonCard.css`.
